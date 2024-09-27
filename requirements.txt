@@ -1,4 +1,3 @@
-Amino.py
-chi
+cgi
 psycopg2
 json
