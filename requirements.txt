@@ -1,0 +1,4 @@
+Amino.py
+chi
+psycopg2
+json
