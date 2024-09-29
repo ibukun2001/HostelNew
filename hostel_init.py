@@ -1,4 +1,3 @@
-#!C:\wamp64\www\HostelNavigator\venv\Scripts\python.exe
 
 import cgi
 import psycopg2
